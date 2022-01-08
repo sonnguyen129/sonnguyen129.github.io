@@ -216,19 +216,19 @@ content:
 # #         description: | # this will include new lines to allow paragraphs
 # #           Description of qualification
 #      ##################################################################################################
-  - title: Awards
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      2018.02. 30th Image Processing and Image Understanding : **Silver Prize**
+  # - title: Awards
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     2018.02. 30th Image Processing and Image Understanding : **Silver Prize**
       
-      2020.08. 16th European Conference on Computer Vision Workshop on Women in Computer Vision (ECCVW) : **Top 3 papers**
+  #     2020.08. 16th European Conference on Computer Vision Workshop on Women in Computer Vision (ECCVW) : **Top 3 papers**
       
-  - title: Professional Activities
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      **Journal Reviewer**
+  # - title: Professional Activities
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     **Journal Reviewer**
       
-      IEIE Transactions on Smart Processing & Computing (IEIE SPC) 2019, 2020
+  #     IEIE Transactions on Smart Processing & Computing (IEIE SPC) 2019, 2020
 
 
 #   - title: A Little More About Me
