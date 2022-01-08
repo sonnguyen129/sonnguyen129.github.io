@@ -51,7 +51,7 @@ linkedin_username: sonhai1209
 # about_title: About Me (Use this to override about section title)
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Suhyeon Ha :) I received M.E in Application Software and B.S in Computer Science and Engineering, both at Chung-Ang University. I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Junseok Kwon</a>.
+  Hello, I'm Son Truong Nguyen :) I am B.S student at Hanoi University of Science and Technology. I was advised by Prof. <a href="http://cau.ac.kr/~jskwon/jskwon.html">Vinh Quang Dinh</a>.
   
   My research interests are to understand <mark>artistic visual data</mark> (e.g. paintings, photographs, online comics), facilitate <mark>deep generative models</mark>, and allow users to <mark>recreate</mark> images (e.g. style transfer, colorization).
   
@@ -78,12 +78,12 @@ content:
 #         quote: >
 #           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-           **Attentive Style Transfer with Target Feature Palette**
+           **Deep Feature Rotation for Multimodal Image Style Transfer**
            
-           **Suhyeon Ha**, Guisik Kim, and Junseok Kwon,
+           **Son Truong Nguyen**, Nguyen Quang Tuyen, and Nguyen Hong Phuc
            
-           8th Women in Computer Vision Workshop, 16th European Conference on Computer Vision Workshop on Women in Computer Vision (**ECCVW**),
-           **Oral Presentation** (in the **Top 3** of submissions), Virtual, 2020
+           8th NAFOSTED Conference on Information and Computer Science (NICS),
+           **Oral Presentation**, Virtual, 2021
            
            <a href="https://github.com/SuhyeonHa/Style-Transfer-with-Target-Feature-Palette-and-Attention-Coloring">[code]</a>
      ###########################################################################################################
