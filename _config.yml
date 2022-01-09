@@ -134,7 +134,7 @@ content:
     content:
     ###########################################################################################################
       - layout: left
-        title: <img src="imgs/depth_mta_2021.png" width="200" height="200"></img>
+        title: <img src="imgs/model_ieee_access_2021.png" width="200" height="150"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            **Deep Correlation Multimodal Neural Style Transfer**
            
-           Nguyen Quang Tuyen, **Son Truong Nguyen**, Tae Jong Choi, Vinh Quang Dinh
+           Nguyen Quang Tuyen, **Son Truong Nguyen**, Tae Jong Choi, and Vinh Quang Dinh
            
            **IEEE Access**, vol. 9, pp. 141329-141338, 2021.
            
@@ -216,12 +216,14 @@ content:
 # #         description: | # this will include new lines to allow paragraphs
 # #           Description of qualification
 #      ##################################################################################################
-  # - title: Awards
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     2018.02. 30th Image Processing and Image Understanding : **Silver Prize**
+  - title: Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      2021.05. HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days : **Ranked 4th/4200+**
       
-  #     2020.08. 16th European Conference on Computer Vision Workshop on Women in Computer Vision (ECCVW) : **Top 3 papers**
+      2020.12. Developer Circle Innovation Challenge 2020 : **1st Runner-up**
+
+      2020.05. Vietnam Online Hackathon 2020: **Third Price**
       
   # - title: Professional Activities
   #   layout: text
