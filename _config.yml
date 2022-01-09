@@ -68,7 +68,7 @@ content:
     content:
     ###########################################################################################################
       - layout: left
-        title: <img src="imgs/img_nics_2021.png" width="200" height="200"></img>
+        title: <img src="imgs/img-nics-2021.png" width="200" height="200"></img>
 #         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #         link_text: Link Text
 #         additional_links:
