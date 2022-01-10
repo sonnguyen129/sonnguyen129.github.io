@@ -51,9 +51,11 @@ linkedin_username: sonhai1209
 # about_title: About Me (Use this to override about section title)
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Son Truong Nguyen :) I am B.S student at Hanoi University of Science and Technology. I was advised by Prof. Vinh Quang Dinh. I am currently working in **artificial intelligence**, **computer vision** and **computer graphic**. 
+  Hello, I'm Son Truong Nguyen :)) I am undergraduated student at Hanoi University of Science and Technology, Hanoi, Vietnam. I was advised by Prof. Vinh Quang Dinh. 
+  I am currently working in **artificial intelligence**, **computer vision** and **computer graphic**. 
   
-  My research interests are to understand <mark>artistic visual data</mark> (e.g. paintings, photographs, online comics), facilitate <mark>deep generative models</mark>, and allow users to <mark>recreate</mark> images (e.g. style transfer, colorization).
+  My research interests are to understand <mark>artistic visual data</mark> (e.g. paintings, photographs, online comics), 
+  facilitate <mark>deep generative models</mark>, and allow users to <mark>recreate</mark> images (e.g. style transfer, colorization).
   
   I'm interested in <mark>computer creativity vision-for-all</mark>.
   
@@ -220,7 +222,7 @@ content:
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      *2021.05*. HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days : **Ranked 4th/4200+**
+      *2021.05*. HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days : **Ranked 4th/4200**
       
       *2020.12*. Developer Circle Innovation Challenge 2020 : **1st Runner-up**
 
