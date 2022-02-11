@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: Son Truong Nguyen
-title: Undergraduated Student
+title: Undergraduate Student
 email: sonhai12092000@gmail.com
 # phone: Your phone number #(optional)
 # website: Your website #(eg. https://google.com)(optional)
@@ -51,7 +51,7 @@ linkedin_username: sonhai1209
 # about_title: About Me (Use this to override about section title)
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Son Truong Nguyen :)) I am undergraduated student at Hanoi University of Science and Technology, Hanoi, Vietnam. I was advised by Prof. Vinh Quang Dinh. 
+  Hello, I'm Son Truong Nguyen :)) I am undergraduate student at Hanoi University of Science and Technology, Hanoi, Vietnam. I was advised by Prof. Vinh Quang Dinh. 
   I am currently working in **artificial intelligence**, **computer vision** and **computer graphic**. 
   
   My research interests are to understand **artistic visual data** (e.g. paintings, photographs, anime), 
@@ -85,10 +85,12 @@ content:
            **Son Truong Nguyen**, Nguyen Quang Tuyen, and Nguyen Hong Phuc
            
            8th NAFOSTED Conference on Information and Computer Science (NICS),
-           **Oral Presentation**, Virtual, 2021
+           **Oral Presentation**, Hanoi, 2021
            
+           <a href="https://arxiv.org/pdf/2202.04426.pdf">[Paper]</a>
            <a href="https://github.com/sonnguyen129/deep-feature-rotation">[Code]</a>
            <a href="https://docs.google.com/presentation/d/1QmEaNGX28uZUJ_Gy-NqIWW0nPcdlqrAA/edit?usp=sharing&ouid=103577362269285208414&rtpof=true&sd=true">[Presentation]</a>
+           <a href="https://github.com/sonnguyen129/deep-feature-rotation#citation">[Bibtex]</a>
      ###########################################################################################################
       # - layout: left
       #   title: <img src="imgs/bidirectional_cvprw_2019.png" width="200" height="150"></img>
@@ -223,10 +225,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       *2021.05*. HackerEarth Machine Learning Challenge: How NOT to lose a customer in 10 days: 
-      [**Ranked 4th/4293**](https://drive.google.com/file/d/1HzT1RUINqDjjedVTVXIu6gEwGVVe8mQk/view?usp=sharing)
+      **Ranked 4th/4293**
       
       *2021.02*. HackerEarth Deep Learning Challenge: 'Tis STILL the season to be jolly: 
-      [**Ranked 20th/3393**](https://drive.google.com/file/d/15KqA-BrS7sNcGkvHQ8m3AdKrOuqhmXBL/view?usp=sharing)
+      **Ranked 20th/3393**
 
       *2020.12*. Developer Circle Innovation Challenge 2020: **1st Runner-up**
 
