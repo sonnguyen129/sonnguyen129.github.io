@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: Son Truong Nguyen
-title: Undergraduate Student
+title: Undergraduate Student / Incoming Data Scientist
 email: sonhai12092000@gmail.com
 # phone: Your phone number #(optional)
 # website: Your website #(eg. https://google.com)(optional)
@@ -52,14 +52,17 @@ linkedin_username: sonhai1209
 about_profile_image: imgs/profile.jpg #(eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Son Truong Nguyen :)) I am undergraduate student at Hanoi University of Science and Technology, Hanoi, Vietnam. I was advised by Prof. Vinh Quang Dinh. 
-  I am currently working in **artificial intelligence**, **computer vision** and **computer graphic**. 
+  I am currently working in **artificial intelligence**, **computer vision** and **data science**. 
   
   My research interests are to understand **artistic visual data** (e.g. paintings, photographs, anime), 
   facilitate **deep generative models**, and allow users to **recreate** images (e.g. style transfer, colorization).
   
-  I'm interested in **computer creativity vision-for-all**.
+# I'm interested in **computer creativity vision-for-all**.
+
+  I desire to get a full-ride scholarship in the future to pursue a **master's degree in computer science**. 
+  I will also become a **Data Scientist** that bring decision-making and predictive analytics to the banking and finance industries.
   
-  <a href="https://drive.google.com/file/d/1DbBAAR1BwP-ST98xOdhLLbxqOub3t6wf/view?usp=sharing">[CV]</a>
+  <a href="https://drive.google.com/file/d/1hH7h-pIZOzCCw7PJPcsyWdWUuF83-GtZ/view?usp=sharing">[CV]</a>
   
 # My research interests include <mark>Style Transfer</mark>, <mark>Colorization</mark>, <mark>Dehazing</mark> and <mark>Deep Learning</mark>.
   
