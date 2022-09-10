@@ -10,7 +10,7 @@ version: 2
 # Personal info
 name: Son Truong Nguyen
 title: Undergraduate Student / Incoming Data Scientist
-email: sonhai12092000@gmail.com
+# email: sonhai12092000@gmail.com
 # phone: Your phone number #(optional)
 # website: Your website #(eg. https://google.com)(optional)
 
@@ -58,7 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
   facilitate **deep generative models**, and allow users to **recreate** images (e.g. style transfer, colorization).
 
   I desire to get a full-ride scholarship in the future to pursue a **master's degree in computer science**. 
-  I will also become a **Data Scientist** that bring decision-making and predictive analytics to the data industries.
+  I will also become a **Data Scientist** that bring decision making and predictive analytics to the data industries.
+
+  If you have any opportunities that could help me achieve my dream, please contact with me. I will be gratefull for any help you can provide.
   
   <a href="https://drive.google.com/file/d/1hH7h-pIZOzCCw7PJPcsyWdWUuF83-GtZ/view?usp=sharing">[CV]</a>
 
